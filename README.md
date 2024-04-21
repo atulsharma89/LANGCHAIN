@@ -1,4 +1,4 @@
-### create  an r git repository on Git server and execute following commnands
+### create a git repository on Git server and execute following commnands
 
 …or create a new repository on the command line
 ===============================================
